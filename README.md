@@ -7,4 +7,5 @@ This repository contains the following assets required to execute the Inteligent
   b) Enriching Intelligence Accuracy (Extracting Information from Contracts)<br>
      Uses Cloud Pak For Data Watson Discovery<br>
   c) Integrating Continuous Improvement (Infusing AI into the Operation)<br>
-     Uses Cloud Pak For Data Watson Studio
+     Uses Cloud Pak For Data Watson Studio<br>
+3) <b>data_science_modelops_team_sport.png</b> ModelOps as a Team Sport image
