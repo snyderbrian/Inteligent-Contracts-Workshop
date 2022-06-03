@@ -9,3 +9,4 @@ This repository contains the following assets required to execute the Inteligent
   c) Integrating Continuous Improvement (Infusing AI into the Operation)<br>
      Uses Cloud Pak For Data Watson Studio<br>
 3) <b>data_science_modelops_team_sport.png</b> ModelOps as a Team Sport image
+4) <b>contracts.zip</b> Sample contracts used in demo with Watson Discovery and used in the modelOps workflow.
