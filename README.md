@@ -30,5 +30,7 @@ A recording of the end to end modelOps demo.<br><br>
 6) <b>csv_files.zip</b><br>
 (Optional) Start a new Project in Cloud Pak For Data, import these CSV files and create all the project assets yourself form scratch.<br>
 Watch the video below for assistance.<br><br>
-7)<b>Trustworthy AI.mp4</b><br>
-(Optional) In this 9 minute recording, learn how IBM provides AI guardrails by monitoring key model metrics on and off our platform using OpenScale to avoid data bias or drift with model risk workflow to ahere to reguator guidelines like SR 11–7 that requires model risk management for all models in financial services.
+7) <b>Trustworthy AI.mp4</b><br>
+(Optional) In this 9 minute recording, learn how IBM provides AI guardrails by monitoring key model metrics on and off our platform using OpenScale to avoid data bias or drift with model risk workflow to ahere to reguator guidelines like SR 11–7 that requires model risk management for all models in financial services.<br><br>
+8) <b>ContractSuccessRandomForest-Py38 Using Sklearn.ipynb</b><br>
+(Optional) Import this Python notebook using Open Source Sklearn and Random Forest Model.<br>
