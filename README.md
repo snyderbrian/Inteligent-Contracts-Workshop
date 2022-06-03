@@ -25,10 +25,10 @@ Use this step by step workbook to:<br>
 ModelOps as a Team Sport image depicting all those involved in delivering AI models and how IBM has them all collaborate together on one platform.<br><br>
 4) <b>contracts.zip</b><br>
 Sample contracts used in demo with Watson Discovery and used in the modelOps workflow.<br><br>
-5) <b>csv_files.zip</b><br>
+5) <b>modelOpsForContractSuccess.mp4</b><br>
+A recording of the end to end modelOps demo.<br><br>
+6) <b>csv_files.zip</b><br>
 (Optional) Start a new Project in Cloud Pak For Data, import these CSV files and create all the project assets yourself form scratch.<br>
 Watch the video below for assistance.<br><br>
-6) <b>modelOpsForContractSuccess.mp4</b><br>
-A recording of the end to end modelOps demo.<br><br>
 7)<b>Trustworthy AI.mp4</b><br>
 (Optional) In this 9 minute recording, learn how IBM provides AI guardrails by monitoring key model metrics on and off our platform using OpenScale to avoid data bias or drift with model risk workflow to ahere to reguator guidelines like SR 11–7 that requires model risk management for all models in financial services.
