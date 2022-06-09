@@ -34,4 +34,5 @@ Watch the video below for assistance.<br><br>
 (Optional) In this 9 minute recording, learn how IBM provides AI guardrails by monitoring key model metrics on and off our platform using OpenScale to avoid data bias or drift with model risk workflow to ahere to reguator guidelines like SR 11–7 that requires model risk management for all models in financial services.<br><br>
 8) <b>ContractSuccessRandomForest-Py38 Using Sklearn.ipynb</b><br>
 (Optional) Import this Python notebook using Open Source Sklearn and Random Forest Model.<br><br>
-9) <b>Intelligent_Contracts - 06-06-2022-1.twx</b> Import into Workflow demo as stated in workshop guide.
+9) <b>Intelligent_Contracts - 06-06-2022-1.twx</b> Import into Workflow demo as stated in workshop guide.<br><br>
+10) <b>baw_contracts.zip</b> - Use these sample contracts with the business automation demo
