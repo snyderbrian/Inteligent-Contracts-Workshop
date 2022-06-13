@@ -35,4 +35,5 @@ Watch the video below for assistance.<br><br>
 8) <b>ContractSuccessRandomForest-Py38 Using Sklearn.ipynb</b><br>
 (Optional) Import this Python notebook using Open Source Sklearn and Random Forest Model.<br><br>
 9) <b>Intelligent_Contracts - 06-06-2022-1.twx</b> Import into Workflow demo as stated in workshop guide.<br><br>
-10) <b>baw_contracts.zip</b> - Use these sample contracts with the business automation demo
+10) <b>baw_contracts.zip</b> - Use these sample contracts with the business automation demo<br><br>
+11) <b>Successful Contracts Dashboard.json</b> - After you import your project, create a new dashboard using this JSON file as the import source.
